@@ -31,7 +31,6 @@ dins = {
 
 with open('temp.txt') as file:
     data = file.readlines()
-
 with open('out.csv', 'w', encoding='utf-8') as file:
     file.write('kit,subhost\n')
     for line in data:
