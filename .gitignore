@@ -1,1 +1,5 @@
 step.txt
+/chromeprofile/
+/test/chromedriver.exe
+/venv/
+/venv_3_8/
